@@ -1,7 +1,7 @@
 <h1 align="center">Hello visitors👋, I'm Krystian Kamer</h1>
 <h3 align="center">A passionate aspiring frontend developer from Poland.</h3>
 
-- 🔭 I’m currently working on [Vid-x](https://krystian-kamer.github.io/vid-x/)
+- 🔭 I’m currently working on my first project that I created from scratch: [Vid-x](https://krystian-kamer.github.io/vid-x/)
 
 - 🌱 I’m currently learning **JavaScript, later I will start React.**
 
