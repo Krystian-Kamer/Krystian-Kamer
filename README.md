@@ -1,7 +1,7 @@
 <h1 align="center">Hello visitors👋, I'm Krystian Kamer</h1>
 <h3 align="center">A passionate aspiring frontend developer from Poland.</h3>
 
-- 🔭 I have just finished my first project that I created from scratch: <p> Live:<a href="https://vid-x.vercel.app/" target="blank" height="40" width="40">🍿 VID-X</a> , Respoitory:<a href="https://vid-x.vercel.app/](https://github.com/Krystian-Kamer/vid-x" target="blank" height="40" width="40"> Check out</a></p>
+- 🔭 I have just finished my first project that I created from scratch: <p> Live:<a href="https://vid-x.vercel.app/" target="blank" height="40" width="40">🍿 VID-X</a> , Respoitory:<a href="https://github.com/Krystian-Kamer/vid-x" target="blank" height="40" width="40"> Check out</a></p>
 
 - 🌱 I’m currently learning **JavaScript, later I will start React.**
 
