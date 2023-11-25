@@ -3,7 +3,7 @@
 
 - 🔭 I have just finished my first project that I created from scratch: <p> Live:<a href="https://vid-x.vercel.app/" target="blank" height="40" width="40">🍿 VID-X</a> , Respoitory:<a href="https://github.com/Krystian-Kamer/vid-x" target="blank" height="40" width="40"> Check out</a></p>
 
-- 🌱 I’m currently learning **JavaScript, later I will start React.**
+- 🌱 I’m currently learning **React.**
 
 - 💬 Ask me about **my experience.**
 
