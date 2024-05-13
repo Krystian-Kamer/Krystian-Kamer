@@ -17,7 +17,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **Typescript.**
 
 - 💬 Ask me about **my experience.**
 
