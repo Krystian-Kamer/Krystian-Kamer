@@ -3,10 +3,8 @@
 
 <div> 
   <h3>Currently I am working on:</h3>
-      <p>🌱Pickle Rick Project, Respoitory:<a href="https://github.com/Krystian-Kamer/vid-x" target="blank" height="40" width="40"> Check out</a></p>
+      <p>🌱Pickle Rick Project, Respoitory:<a href="https://github.com/Krystian-Kamer/picklerick" target="blank" height="40" width="40"> Check out</a></p>
 </div>
-
-
 
 <div> 
   <h3>🔭My projects:</h3>
