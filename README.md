@@ -3,7 +3,11 @@
 
 <div> 
   <h3>Currently I am working on:</h3>
-        <p><a href="https://picklerick-1sbq.vercel.app/" target="blank" height="40" width="40">🍿 🌱Pickle Rick Project</a> , Respoitory:<a href="https://github.com/Krystian-Kamer/picklerick" target="blank" height="40" width="40"> Check out</a></p>
+  <ul>
+    <li>
+        <p><a href="https://picklerick-1sbq.vercel.app/" target="blank" height="40" width="40">🌱Pickle Rick Project</a> , Respoitory:<a href="https://github.com/Krystian-Kamer/picklerick" target="blank" height="40" width="40"> Check out</a></p>
+    </li>
+  </ul>
 </div>
 
 <div> 
