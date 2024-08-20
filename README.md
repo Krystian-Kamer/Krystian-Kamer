@@ -5,7 +5,7 @@
   <h3>Currently I am working on:</h3>
   <ul>
     <li>
-        <p><a href="https://picklerick-1sbq.vercel.app/" target="blank" height="40" width="40">🌱 Pickle Rick</a> , Respoitory:<a href="https://github.com/Krystian-Kamer/picklerick" target="blank" height="40" width="40"> Check out</a></p>
+        <p><a href="https://picklerick-1sbq.vercel.app/" target="blank" height="40" width="40">🌱 Pickle Rick</a> , Repository:<a href="https://github.com/Krystian-Kamer/picklerick" target="blank" height="40" width="40"> Check out</a></p>
     </li>
   </ul>
 </div>
@@ -14,13 +14,13 @@
   <h3>🔭My projects:</h3>
   <ul>
     <li>
-      <p><a href="https://vid-x.vercel.app/" target="blank" height="40" width="40">🍿 VID-X</a> , Respoitory:<a href="https://github.com/Krystian-Kamer/vid-x" target="blank" height="40" width="40"> Check out</a></p>
+      <p><a href="https://vid-x.vercel.app/" target="blank" height="40" width="40">🍿 VID-X</a> , Repository:<a href="https://github.com/Krystian-Kamer/vid-x" target="blank" height="40" width="40"> Check out</a></p>
     </li>
     <li>
-      <p><a href="https://pentago-eta.vercel.app/" target="blank" height="40" width="40">🪩 Pentago Game</a> , Respoitory:<a href="https://github.com/Krystian-Kamer/pentago-game" target="blank" height="40" width="40"> Check out</a></p>
+      <p><a href="https://pentago-eta.vercel.app/" target="blank" height="40" width="40">🪩 Pentago Game</a> , Repository:<a href="https://github.com/Krystian-Kamer/pentago-game" target="blank" height="40" width="40"> Check out</a></p>
     </li>
     <li>
-      <p><a href="https://charges.vercel.app/" target="blank" height="40" width="40">💸 Charges</a> , Respoitory:<a href="https://github.com/Krystian-Kamer/charges" target="blank" height="40" width="40"> Check out</a></p>
+      <p><a href="https://charges.vercel.app/" target="blank" height="40" width="40">💸 Charges</a> , Repository:<a href="https://github.com/Krystian-Kamer/charges" target="blank" height="40" width="40"> Check out</a></p>
     </li>
   </ul>
 </div>
