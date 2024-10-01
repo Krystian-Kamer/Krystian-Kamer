@@ -3,10 +3,10 @@
 
 <div> 
   <h3>🔭My projects:</h3>
+  <ul>
     <li>
         <p><a href="https://picklerick-1sbq.vercel.app/" target="blank" height="40" width="40">🥒 Pickle Rick</a> , Repository:<a href="https://github.com/Krystian-Kamer/picklerick" target="blank" height="40" width="40"> Check out</a></p>
     </li>
-  <ul>
     <li>
       <p><a href="https://vid-x.vercel.app/" target="blank" height="40" width="40">🍿 VID-X</a> , Repository:<a href="https://github.com/Krystian-Kamer/vid-x" target="blank" height="40" width="40"> Check out</a></p>
     </li>
