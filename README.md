@@ -1,7 +1,7 @@
 <h1 align="center">Hello visitors👋, I'm Krystian Kamer</h1>
 <h3 align="center">A passionate frontend developer from Poland.</h3>
 
-<h3>I'm currently learning advanced commands in Git.</h3>
+<h3>I am currently creating my portfolio & blog.</h3>
 <div> 
   <h3>🔭My projects:</h3>
   <ul>
