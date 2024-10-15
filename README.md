@@ -1,4 +1,4 @@
-<h1 align="center">Hello visitors👋, I'm Krystian Kamer</h1>
+<h1 align="center">Hello👋, I'm Krystian Kamer</h1>
 <h3 align="center">A passionate frontend developer from Poland.</h3>
 
 <h3>I am currently creating my portfolio & blog. <a href="https://github.com/Krystian-Kamer/czolem_w_klawiature" target="blank" height="40" width="40"> Check out</a></h3>
