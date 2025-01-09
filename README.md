@@ -1,11 +1,14 @@
 <h1 align="center">Hello👋, I'm Krystian Kamer</h1>
 <h3 align="center">A passionate frontend developer from Poland.</h3>
 
-<h3>I am currently creating my portfolio & blog. <a href="https://github.com/Krystian-Kamer/czolem_w_klawiature" target="blank" height="40" width="40"> Check out</a></h3>
+<h3>I am currently looking for oportunities. </h3>
 
 <div> 
   <h3>🔭My projects:</h3>
   <ul>
+    <li>
+        <p><a href="https://github.com/Krystian-Kamer/czolem_w_klawiature" target="blank" height="40" width="40">⌨️ Czołem w klawiaturę</a> , Repository:<a href="https://github.com/Krystian-Kamer/czolem_w_klawiature" target="blank" height="40" width="40"> Check out</a></p>
+    </li>
     <li>
         <p><a href="https://picklerick-1sbq.vercel.app/" target="blank" height="40" width="40">🥒 Pickle Rick</a> , Repository:<a href="https://github.com/Krystian-Kamer/picklerick" target="blank" height="40" width="40"> Check out</a></p>
     </li>
@@ -23,7 +26,7 @@
 
 - 💬 Ask me about **my experience.**
 
-- 📫 How to reach me **texen24@gmail.com**
+- 📫 How to reach me **krystian.kamer@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
