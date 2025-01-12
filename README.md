@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland.</h3>
 
 <h3>I am currently looking for oportunities. </h3>
-<h3> Check out my blog <p><a href="https://www.czolemwklawiature.com" target="blank" height="40" width="40">⌨️ Czołem w klawiaturę </a></p></h3>
+<h3> My blog <a href="https://www.czolemwklawiature.com" target="blank" height="40" width="40">⌨️ Czołem w klawiaturę </a></h3>
 <div> 
   <h3>🔭My projects:</h3>
   <ul>
