@@ -2,12 +2,12 @@
 <h3 align="center">A passionate frontend developer from Poland.</h3>
 
 <h3>I am currently looking for oportunities. </h3>
-
+https://www.czolemwklawiature.com/
 <div> 
   <h3>🔭My projects:</h3>
   <ul>
     <li>
-        <p><a href="https://github.com/Krystian-Kamer/czolem_w_klawiature" target="blank" height="40" width="40">⌨️ Czołem w klawiaturę</a> , Repository:<a href="https://github.com/Krystian-Kamer/czolem_w_klawiature" target="blank" height="40" width="40"> Check out</a></p>
+        <p><a href="https://www.czolemwklawiature.com" target="blank" height="40" width="40">⌨️ Czołem w klawiaturę</a> , Repository:<a href="https://github.com/Krystian-Kamer/czolem_w_klawiature" target="blank" height="40" width="40"> Check out</a></p>
     </li>
     <li>
         <p><a href="https://picklerick-1sbq.vercel.app/" target="blank" height="40" width="40">🥒 Pickle Rick</a> , Repository:<a href="https://github.com/Krystian-Kamer/picklerick" target="blank" height="40" width="40"> Check out</a></p>
