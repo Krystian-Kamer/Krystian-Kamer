@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland.</h3>
 
 <h3>I am currently looking for oportunities. </h3>
-https://www.czolemwklawiature.com/
+
 <div> 
   <h3>🔭My projects:</h3>
   <ul>
