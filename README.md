@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Krystian Kamer</h1>
 <h3 align="center">A passionate frontend developer from Poland.</h3>
 
-<h3>I am currently looking for oportunities. </h3>
+<h3>I am currently looking for oportunities & learning React Testing Library with Vitest. </h3>
 <h3> My blog <a href="https://www.czolemwklawiature.com" target="blank" height="40" width="40">Czołem w klawiaturę </a></h3>
 <div> 
   <h3>🔭My projects:</h3>
